@@ -1,4 +1,4 @@
-# Hi there, my name is Nguyễn Mạnh Thắng (Thang Nguyen) 👋
+# Hi there, I'm Thắng (Thang Nguyen) 👋
 
 ### 🎓 About Me
 - 🏫 **Education:** 2nd-year IT Student at **Sai Gon University (SGU)**.
