@@ -16,10 +16,6 @@
 - **Problem Solving:** LeetCode, Codeforces
 - **Tools:** Git, VS Code, AI...
 
-### 📊 GitHub Stats
-![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaseSous&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaseSous&layout=compact&theme=radical)
-
 ### 🧩 Find me on
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/JaseSous/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/JaseSous/)
